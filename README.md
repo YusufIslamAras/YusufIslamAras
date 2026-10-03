@@ -27,4 +27,4 @@
 </p>
 
 ---
-📫 **Bana Ulaşın:** [LinkedIn Profilim](https://www.linkedin.com/in/yusuf-islam-aras/) | yusufislamaras00@gmail.com
+📫 **Bana Ulaşın:** [LinkedIn Profilim](https://www.linkedin.com/in/yusuf-islam-aras/) | yusufislamaras08@gmail.com
