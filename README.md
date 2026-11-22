@@ -1,30 +1,32 @@
-# Merhaba, Ben Yusuf İslam! 👋
+# Merhaba, ben Yusuf İslam 👋
 
-**Bursa'da yaşayan, web ve mobil teknolojileri üzerine çalışan bir Full-Stack Yazılım Geliştiriciyim.** 
-Şu anda profesyonel olarak IT Uzmanı ve Full-Stack Geliştirici rolünde çalışıyor, modern web mimarileri ve kullanıcı dostu arayüzler inşa ediyorum.
+**Full-Stack Developer · Bursa, Türkiye**
+Tek İşim Gayrimenkul genel merkezinde Bilişim Uzmanı olarak çalışıyorum. Web, mobil ve masaüstü tarafında uçtan uca ürün geliştiriyor, canlıya alıyor ve bakımını yapıyorum.
 
-### 🛠️ Kullandığım Teknolojiler ve Araçlar
+> 🇬🇧 Full-stack developer based in Bursa, Türkiye. I build and ship production web, mobile and desktop apps with Next.js, React Native/Expo, ASP.NET Core and Supabase. Open to remote roles.
 
+### 🛠️ Teknolojiler
 - **Backend & Veritabanı:** C#, ASP.NET Core, Entity Framework Core, MSSQL, PostgreSQL, Supabase, Prisma
-- **Frontend:** React.js, Next.js, JavaScript, Tailwind CSS, Framer Motion
-- **Mobil Geliştirme:** React Native, Expo, Firebase Cloud Messaging
-- **Diğer & Araçlar:** Git, GitHub, Postman, Vercel, DigitalOcean, Unity (2D Game Dev)
+- **Frontend:** React, Next.js, TypeScript/JavaScript, Tailwind CSS, Framer Motion
+- **Mobil:** React Native, Expo, Firebase Cloud Messaging
+- **Araçlar:** Git, Postman, Vercel, DigitalOcean, Unity (2D)
 
-### 🚀 Öne Çıkan Çalışmalarım & Projelerim
+### 💼 Profesyonel
+- **Gayrimenkul CRM (Tek İşim Gayrimenkul):** Franchise ağı için şirket içi CRM. Tek geliştirici olarak tasarlayıp geliştirdim ve canlıya aldım.
 
-Özel repo (private) olarak geliştirdiğim ve canlıya aldığım bazı önemli projelerim:
+### 🚀 Canlı Projeler
+| Proje | Açıklama | Teknoloji |
+|---|---|---|
+| [Söz Gemisi](https://sozgemisi.com) | SEO odaklı edebiyat platformu ve mobil uygulaması, push bildirimleriyle | Next.js, Expo, Firebase |
+| [HalıSahaBurda](https://halisahaburda.com) | Gerçek zamanlı halı saha rezervasyonu, saha ve kampanya yönetimi | Next.js, Supabase |
+| [Nededine](https://nededine.com) | Etkileşimli testler, haber ve eğlence içerikleri | Next.js |
+| Giderler & Günlük | Google Play'de yayında olan mobil uygulamalar | React Native, Expo |
+| Core ERP | Stok, müşteri ve sipariş takibi yapan masaüstü ERP | C# WPF, SQL Server |
 
-- **[Söz Gemisi (sozgemisi.com)](https://sozgemisi.com):** Özel modüller içeren, SEO optimizasyonlu, Expo ve Firebase bildirim entegrasyonuna sahip tam kapsamlı bir edebiyat platformu.
-- **[HalıSahaBurda (halisahaburda.com)](https://halisahaburda.com):** Next.js ve Supabase altyapısıyla geliştirilen, gerçek zamanlı rezervasyon, saha yönetimi ve kampanya modülleri sunan web uygulaması.
-- **[Nededine (nededine.com)](https://nededine.com):** Etkileşimli testler, haber ve eğlence içerikleri sunan, Next.js ile geliştirilmiş içerik platformu.
-- **Kurumsal ERP & Masaüstü Çözümleri:** Stok, müşteri ve sipariş takibi yapabilen, SQL Server bağlantılı C# WPF masaüstü uygulamaları.
-
-### 📊 GitHub İstatistiklerim
+> Bu projelerin çoğu private repolarda. Kod incelemesi için talep üzerine erişim verebilirim.
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YusufIslamAras&show_icons=true&theme=radical" alt="Yusuf Islam's GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YusufIslamAras&theme=radical" alt="Yusuf Islam's GitHub Streak" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YusufIslamAras&theme=radical" alt="GitHub Streak" width="60%" />
 </p>
 
----
-📫 **Bana Ulaşın:** [LinkedIn Profilim](https://www.linkedin.com/in/yusuf-islam-aras/) | yusufislamaras08@gmail.com
+📫 [LinkedIn](https://www.linkedin.com/in/yusuf-islam-aras/) · yusufislamaras08@gmail.com
